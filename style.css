@@ -1,0 +1,64 @@
+h2{
+    font-family:'Times New Roman', Times, serif;
+}
+.uline{
+    content: '';
+    border-radius: 2px;
+    height: 2px;
+    background-color:rgb(158, 4, 4);
+}
+.line{
+    content: '';
+    height: 2px;
+    width: auto;
+    background-color:rgb(17, 16, 16);
+}
+.fa-android{
+    color:white;
+    font-size: 25px;
+}
+.fa-android:active{
+    transform: rotate(10deg);
+    color: crimson;
+}
+.nav-item{
+    padding-right: 10px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    align-self: center;
+}
+.nav-link{
+    width: 150px;
+    font-size:12px;
+    border: 1px;
+    border-radius: 10px;
+    background-color: white;
+}
+.nav-link:active{
+    background: crimson;
+}
+a:link ,a:visited, a:hover {
+    color: #ffffff;
+}
+.Smsg{
+    margin: auto;
+    padding:.5%;
+    background-color:#4CAF50 ;
+    width: 50%;
+    display: block;
+    text-align: center;
+    font-size: 12px;
+    color: white;
+}
+.Emsg{
+    margin: auto;
+    padding: .5%;
+    background-color:#f03838 ;
+    width: 50%;
+    display: block;
+    text-align: center;
+    font-size: 12px;
+    color: white;
+}
+
+/*/zuhailpm©/*/
